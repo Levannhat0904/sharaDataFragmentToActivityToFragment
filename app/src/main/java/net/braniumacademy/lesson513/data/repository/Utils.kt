@@ -27,4 +27,5 @@ object Utils {
         val formatter = DecimalFormat("#,###.#")
         return formatter.format(number.toDouble())
     }
+//    nhat
 }
